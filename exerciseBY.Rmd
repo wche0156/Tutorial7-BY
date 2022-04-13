@@ -2,5 +2,9 @@
 title: "Untitled"
 author: "BINGYU YANG"
 date: '2022-04-13'
-output: html_document
+output: pdf_document:
+toc: true
+toc_depth: 2
+number_sections: true
+highlight: tango
 ---
